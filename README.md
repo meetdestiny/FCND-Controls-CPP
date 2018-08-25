@@ -1,8 +1,8 @@
-#Project Details
+# Flying Car Controller
 
 In this project I have implemented a Cascade PID Drone Controller and tested for multiple scenarios as described below:
 
-#Rubric
+## Rubric
 
 |Task | Status|
 |----|---|
@@ -17,19 +17,22 @@ In this project I have implemented a Cascade PID Drone Controller and tested for
 
 
 
-# Testing Scenarios
+## Testing Scenarios
 
-##1: Intro
-Tuned the mass parameter till it starts to hover. 
-
-##2 
+### 1: Intro
+Tuned the mass parameter so that the drone starts to hover without falling.  
 
 
-##3
+[![Intro task](https://img.youtube.com/vi/XK1lUQUWUyg/0.jpg)](https://www.youtube.com/watch?v=XK1lUQUWUyg)
+
+### 2: 
+
+
+### 3:
 
 
 
-##4
+### 4:
 
 
 
